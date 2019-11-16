@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon14, part of koffice: http://www.koffice.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24.000078"
+   height="24.002201"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="yarock.svg">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Malcer</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#575757"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0.51372549"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1061"
+     id="namedview14"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="6.952579"
+     inkscape:cx="58.107036"
+     inkscape:cy="11.715725"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="yarock"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2988" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <g
+     id="yarock">
+    <rect
+       y="-0.02508142"
+       x="0.053367998"
+       height="24"
+       width="24"
+       id="rect2990"
+       style="opacity:0;fill:#00dbff;fill-opacity:1;stroke:none" />
+    <g
+       id="g3"
+       transform="matrix(0.04523274,0,0,0.04523274,9.8047583,-23.455165)"
+       style="fill:#f2f2f2;fill-opacity:1">
+      <path
+         d="m 187.19586,630.80832 c -21.42763,0 -38.26323,16.8364 -38.26323,38.26324 l 0,45.91637 c -6.12219,-4.59124 -13.77531,-7.65233 -22.95859,-7.65233 -9.18327,0 -18.36735,3.06109 -26.020473,9.18327 -6.120582,-15.30545 -19.895892,-24.48873 -35.201347,-24.48873 -9.183274,0 -16.836404,3.0611 -22.958586,7.65233 l 0,-76.52728 c 0,-21.42683 -16.836402,-38.26323 -38.2640394,-38.26323 -21.4276376,0 -38.2632386,16.8364 -38.2632386,38.26323 l 0,120.9135 c -30.610911,-27.54982 -64.282914,-48.97745 -85.710546,-27.54982 -30.61091,30.61091 33.671997,90.30179 82.649455,180.60438 35.2029477,62.75197 84.180406,85.71055 133.157866,85.71055 71.935239,0 130.095969,-58.16073 130.095969,-130.09597 l 0,-183.66547 c 0,-21.42764 -16.8356,-38.26404 -38.26324,-38.26404 z"
+         id="path5"
+         inkscape:connector-curvature="0"
+         style="fill:#566060;fill-opacity:1"
+         sodipodi:nodetypes="sscscscssscscssss" />
+    </g>
+  </g>
+</svg>

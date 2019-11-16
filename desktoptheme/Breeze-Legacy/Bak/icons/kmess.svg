@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg3066"
+   version="1.1"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="kmess.svg">
+  <defs
+     id="defs3068">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }
+</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#8a8a8a"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="1"
+     inkscape:cy="8.7711238"
+     inkscape:document-units="px"
+     inkscape:current-layer="kmess"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1061"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2986"
+       empspacing="5"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3071">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.749795,-997.22726)">
+    <g
+       id="kmess">
+      <rect
+         transform="scale(-1,1)"
+         y="997.22723"
+         x="-71.749794"
+         height="22"
+         width="22"
+         id="rect3879"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3-6"
+         d="m 60.750769,999.22723 c 2.49124,0 4.834056,0.86337 6.59961,2.42777 1.780948,1.5782 2.761719,3.6809 2.761719,5.9219 0,2.1389 -0.893616,4.1519 -2.523438,5.7032 0.02949,0.072 0.05354,0.1468 0.06836,0.2264 l 0.535155,2.8692 c 0.06364,0.3408 -0.02244,0.5437 -0.105467,0.6543 -0.09591,0.1273 -0.238216,0.1972 -0.400391,0.1972 -0.122451,0 -0.25349,-0.039 -0.390624,-0.117 l -3.115233,-1.7618 c -1.078428,0.378 -2.23637,0.5762 -3.429688,0.5762 -2.491238,0 -4.835961,-0.8613 -6.601562,-2.4257 -1.780903,-1.5782 -2.761719,-3.6809 -2.761719,-5.9219 0,-2.241 0.980816,-4.3436 2.761719,-5.9218 1.765609,-1.5646 4.110378,-2.42784 6.601562,-2.42784 z m 4.92969,7.03317 c -0.827129,0 -1.498144,0.6689 -1.500002,1.4961 l 0,0 c 0,0.8284 0.671558,1.5 1.500002,1.5 0.828442,0 1.499999,-0.6716 1.499999,-1.5 0,-0.8285 -0.671557,-1.5 -1.499999,-1.5 z m -5.01758,0 c -0.827128,0 -1.498143,0.6689 -1.499999,1.4961 l 0,0 c 0,0.8284 0.671555,1.5 1.499999,1.5 0.828442,0 1.5,-0.6716 1.5,-1.5 0,-0.8285 -0.671558,-1.5 -1.5,-1.5 z m -5.017579,0 c -0.827124,0 -1.498142,0.6689 -1.499999,1.4961 l 0,0 c 0,0.8284 0.671558,1.5 1.499999,1.5 0.828443,0 1.5,-0.6716 1.5,-1.5 0,-0.8285 -0.671557,-1.5 -1.5,-1.5 z"
+         style="fill:#566060;fill-opacity:1;stroke:none;stroke-opacity:0.85000002;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g4195"
+       transform="matrix(1.6363934,0,0,1.6363934,-23.726774,-669.49001)" />
+  </g>
+</svg>
