@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
+   width="32"
+   height="32"
    id="svg3869"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="go.svgz"
-   viewBox="0 0 22 22">
+   sodipodi:docname="phone.svgz"
+   viewBox="0 0 32 32">
   <defs
      id="defs3871">
     <style
@@ -63,9 +63,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.0000001"
-     inkscape:cx="50.086451"
-     inkscape:cy="10.924615"
+     inkscape:zoom="8.275359"
+     inkscape:cx="-8.7766394"
+     inkscape:cy="-2.4433464"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -81,7 +81,9 @@
      inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
-       id="grid4132" />
+       id="grid4132"
+       originx="5"
+       originy="4.9999826" />
   </sodipodi:namedview>
   <metadata
      id="metadata3874">
@@ -99,91 +101,117 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-326,-534.3622)">
+     transform="translate(-321,-529.36218)">
     <g
        style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
-       id="go-home"
-       transform="translate(326,534.3622)">
+       id="phone"
+       transform="translate(321,529.36218)">
       <path
          inkscape:connector-curvature="0"
          id="path2"
          style="fill:#202020"
-         d="M 8,20 H 3 V 11.7 L 2.707,11.707 2,11 10.293,2.707 11,2 14,5 V 3 h 4 v 6 l 2,2 -0.707,0.707 L 19,11.7 V 20 H 12 V 13 H 8 Z m 7,-12.586 -4,-4 -7,7 V 19 h 3 v -7 h 6 v 7 h 5 v -8.586 l -1,-1 V 4 h -2 z" />
+         d="M 8,6 V 5 C 8,3.896 8.896,3 10,3 h 12 c 1.104,0 2,0.896 2,2 v 22 c 0,1.104 -0.896,2 -2,2 H 10 C 8.896,29 8,28.104 8,27 V 25 24 7 Z M 23,25 H 9 v 2 c 0,0.552 0.448,1 1,1 h 12 c 0.552,0 1,-0.448 1,-1 z m -5,2 h -4 v -1 h 4 z M 23,7 H 9 V 24 H 23 Z M 22,4 H 10 C 9.448,4 9,4.448 9,5 V 6 H 23 V 5 C 23,4.448 22.552,4 22,4 Z"
+         sodipodi:nodetypes="cssssssssccccccsssscccccccccccsssccss" />
       <rect
          y="0"
          x="0"
-         height="22"
-         width="22"
+         height="32"
+         width="32"
          id="rect817"
-         style="fill:#ffffff;fill-opacity:0;stroke-width:0.95913571" />
+         style="fill:#ffffff;fill-opacity:0;stroke-width:1.28437436" />
     </g>
     <g
        style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
-       id="go-next"
-       transform="translate(348,534.3622)">
+       id="22-22-phone"
+       transform="translate(353,534.36218)">
       <path
          inkscape:connector-curvature="0"
          id="path2-9"
          style="fill:#202020"
-         d="m 7.356,3 v 0 l 8,8 -8,8 H 7.346 L 6.644,18.298 13.942,11 6.649,3.707 Z" />
+         d="M 5,3 C 5,2.448 5.448,2 6,2 h 10 c 0.552,0 1,0.448 1,1 v 16 c 0,0.552 -0.448,1 -1,1 H 6 C 5.448,20 5,19.552 5,19 Z M 16,16 H 6 v 3 h 10 z m -3,1 v 1 H 9 V 17 Z M 16,5 H 6 V 15 H 16 Z M 6,3 V 4 H 16 V 3 Z" />
       <rect
          y="0"
          x="0"
          height="22"
          width="22"
-         id="rect817-0"
-         style="fill:#ffffff;fill-opacity:0;stroke-width:0.99790585" />
+         id="rect817-8"
+         style="fill:#ffffff;fill-opacity:0;stroke-width:1.33304608" />
     </g>
     <g
        style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
-       id="go-previous"
-       transform="matrix(-1,0,0,1,392,534.3622)">
+       id="16-16-phone"
+       transform="translate(303,538.3622)">
       <path
          inkscape:connector-curvature="0"
-         id="path2-9-5"
+         id="path2-4"
          style="fill:#202020"
-         d="m 7.356,3 v 0 l 8,8 -8,8 H 7.346 L 6.644,18.298 13.942,11 6.649,3.707 Z" />
+         d="M 4,15 C 3.448,15 3,14.552 3,14 V 2 C 3,1.448 3.448,1 4,1 h 8 c 0.552,0 1,0.448 1,1 v 12 c 0,0.552 -0.448,1 -1,1 z m 6,-2 H 6 v 1 h 4 c 0,0 0,-1 0,-1 z M 12,2 H 4 v 10 h 8 V 7 Z" />
       <rect
          y="0"
          x="0"
-         height="22"
-         width="22"
-         id="rect817-0-2"
-         style="fill:#ffffff;fill-opacity:0;stroke-width:0.99790585" />
+         height="16"
+         width="16"
+         id="rect817-4"
+         style="fill:#ffffff;fill-opacity:0;stroke-width:0.7392419" />
     </g>
     <g
        style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
-       id="go-down"
-       transform="rotate(90,-48.6811,485.6811)">
+       id="22-22-phone-battery"
+       transform="translate(353,566.36218)">
       <path
          inkscape:connector-curvature="0"
-         id="path2-9-5-8"
-         style="fill:#202020"
-         d="m 7.356,3 v 0 l 8,8 -8,8 H 7.346 L 6.644,18.298 13.942,11 6.649,3.707 Z" />
+         id="path2-97"
+         d="M 6,2 C 5.448,2 5,2.448 5,3 v 16 c 0,0.552 0.448,1 1,1 h 10 c 0.552,0 1,-0.448 1,-1 V 3 C 17,2.448 16.552,2 16,2 Z M 6,3 H 16 V 4 H 6 Z M 6,5 H 16 V 15 H 6 Z m 5,1 -2,5 h 2 v 3 L 13,9 H 11 Z M 6,16 h 10 v 3 H 6 Z m 3,1 v 1 h 4 v -1 z"
+         style="fill:#202020" />
       <rect
          y="0"
          x="0"
          height="22"
          width="22"
-         id="rect817-0-2-3"
-         style="fill:#ffffff;fill-opacity:0;stroke-width:0.99790585" />
+         id="rect822"
+         style="fill:#ffffff;fill-opacity:0;stroke-width:1.01527214" />
     </g>
     <g
        style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
-       id="go-up"
-       transform="matrix(0,-1,-1,0,414,556.3622)">
+       id="phone-battery"
+       transform="translate(321,561.36218)">
       <path
          inkscape:connector-curvature="0"
-         id="path2-9-5-8-1"
-         style="fill:#202020"
-         d="m 7.356,3 v 0 l 8,8 -8,8 H 7.346 L 6.644,18.298 13.942,11 6.649,3.707 Z" />
+         id="path2-8"
+         d="M 10,3 C 8.896,3 8,3.896 8,5 v 1 1 17 1 2 c 0,1.104 0.896,2 2,2 h 12 c 1.104,0 2,-0.896 2,-2 V 5 C 24,3.896 23.104,3 22,3 Z m 0,1 h 12 c 0.552,0 1,0.448 1,1 V 6 H 9 V 5 C 9,4.448 9.448,4 10,4 Z M 9,7 H 23 V 24 H 9 Z m 7,2 -3,7 h 3 v 5 l 3,-7 H 16 Z M 9,25 h 14 v 2 c 0,0.552 -0.448,1 -1,1 H 10 C 9.448,28 9,27.552 9,27 Z m 5,1 v 1 h 4 v -1 z"
+         style="fill:#202020" />
       <rect
          y="0"
          x="0"
-         height="22"
-         width="22"
-         id="rect817-0-2-3-5"
-         style="fill:#ffffff;fill-opacity:0;stroke-width:0.99790585" />
+         height="32"
+         width="32"
+         id="rect823"
+         style="fill:#ffffff;fill-opacity:0;stroke-width:1.03616464" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+       id="16-16-phone-battery"
+       transform="translate(303,570.3622)">
+      <g
+         id="g826">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 4,15 C 3.448,15 3,14.552 3,14 V 2 C 3,1.448 3.448,1 4,1 h 8 c 0.552,0 1,0.448 1,1 v 12 c 0,0.552 -0.448,1 -1,1 z m 6,-2 H 6 v 1 h 4 c 0,0 0,-1 0,-1 z M 12,2 H 4 v 10 h 8 V 7 Z"
+           style="fill:#202020"
+           id="path2-96" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 8,6 h 2 L 8,11 V 8 H 6 L 8,3 Z"
+           style="fill:#202020"
+           id="path4" />
+      </g>
+      <rect
+         y="0"
+         x="0"
+         height="16"
+         width="16"
+         id="rect822-9"
+         style="fill:#ffffff;fill-opacity:0;stroke-width:1.01676917" />
     </g>
   </g>
 </svg>
