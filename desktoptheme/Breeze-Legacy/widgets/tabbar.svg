@@ -5,603 +5,595 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="500"
    height="300"
    version="1.1"
-   id="svg112"
-   sodipodi:docname="tabbar.svg"
-   inkscape:version="0.92.5 (6c0c36ef5a, 2020-05-15, custom)">
+   id="svg127">
   <metadata
-     id="metadata116">
+     id="metadata133">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview
-     pagecolor="#3a3a3a"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1000"
-     id="namedview114"
-     showgrid="true"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:zoom="5.0741833"
-     inkscape:cx="402.18795"
-     inkscape:cy="155.15656"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg112"
-     inkscape:snap-bbox="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:bbox-nodes="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid943" />
-  </sodipodi:namedview>
   <defs
-     id="defs3">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-  </defs>
+     id="defs131" />
   <g
      id="north-active-tab-top"
-     transform="matrix(0.81250094,0,0,1.6666698,290.56249,-1450.2732)">
+     transform="matrix(0.8125,0,0,0.83332808,290.56,-685.62854)">
     <rect
-       y="-50.999985"
-       x="-916.36218"
-       height="32"
-       width="6"
-       id="rect4152"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
+       class="ColorScheme-Background"
        transform="matrix(0,-1,-1,0,0,0)"
-       class="ColorScheme-Background" />
+       x="-916.35999"
+       y="-51"
+       width="6"
+       height="32"
+       color="#eff0f1"
+       fill="#ffffff"
+       opacity="0.3"
+       id="rect2" />
   </g>
   <g
      id="north-active-tab-topleft"
-     transform="matrix(0.83333453,0,0,0.83333453,283.16668,-691.63644)">
+     transform="matrix(0.41666667,0,0,0.41666667,294.58333,-306.31667)">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2"
-       d="m 25,910.36218 c -6.647974,0 -12,5.35203 -12,12 h 8 2 2 v -2 -8 z"
-       id="rect4159"
-       inkscape:connector-curvature="0" />
+       d="m 25,910.36 c -6.648,0 -12,5.352 -12,12 h 12 v -10 z"
+       fill="#ffffff"
+       opacity="0.3"
+       id="path5" />
   </g>
   <g
      id="north-active-tab-topright"
-     transform="matrix(0.83333731,0,0,0.83333731,296.49976,-691.63894)">
+     transform="matrix(0.41666667,0,0,0.41666667,314.25,-306.31667)">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999332"
-       d="m 45.00004,910.36218 v 1.99999 7.99998 1.99999 h 1.999994 1.999993 5.99998 H 57 c 0,-6.64795 -5.352008,-11.99996 -11.99996,-11.99996 z"
-       id="rect4177"
-       inkscape:connector-curvature="0" />
+       d="m 45,910.36 v 12 h 12 c 0,-6.648 -5.352,-12 -12,-12 z"
+       fill="#ffffff"
+       opacity="0.3"
+       id="path8" />
   </g>
   <g
      id="north-active-tab-bottom"
-     transform="matrix(0.81250094,0,0,1.6666612,290.56249,-1479.5986)">
+     transform="matrix(0.8125,0,0,0.82943854,290.5625,-686.60635)">
     <rect
+       class="ColorScheme-Background"
        transform="rotate(90)"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4148"
+       x="948.35999"
+       y="-51"
        width="6"
        height="32"
-       x="948.36218"
-       y="-50.999985"
-       class="ColorScheme-Background" />
+       color="#eff0f1"
+       fill="#ffffff"
+       opacity="0.3"
+       id="rect11" />
   </g>
   <g
      id="north-active-tab-bottomleft"
-     transform="matrix(0.83333074,0,0,0.83333074,283.16673,-684.29954)">
+     transform="matrix(0.41666667,0,0,0.41666667,294.58333,-292.65)">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.00000334"
-       d="m 13,942.36216 c 0,6.64798 5.352035,12.00002 12.00002,12.00002 v -2 -8.00002 -2 h -2.000003 -2.000004 -6.00001 z"
-       id="path5048"
-       inkscape:connector-curvature="0" />
+       d="m 13,942.36 c 0,6.648 5.352,12 12,12 v -12 H 15 Z"
+       fill="#ffffff"
+       opacity="0.3"
+       id="path14" />
   </g>
   <g
      id="north-active-tab-bottomright"
-     transform="matrix(0.83333074,0,0,0.83333074,296.50014,-684.29954)">
+     transform="matrix(0.41666667,0,0,0.41666667,314.25,-292.65)">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.00000334"
-       d="m 44.99998,942.36216 v 2 8.00002 2 C 51.647965,954.36218 57,949.01014 57,942.36216 h -2.000003 -6.00001 -2.000004 z"
-       id="rect4177-6"
-       inkscape:connector-curvature="0" />
+       d="m 45,942.36 v 12 c 6.648,0 12,-5.352 12,-12 H 47 Z"
+       fill="#ffffff"
+       opacity="0.3"
+       id="path17" />
   </g>
   <g
      id="north-active-tab-left"
-     transform="matrix(1.6666667,0,0,0.62499857,272.33336,-493.72514)">
+     transform="matrix(0.83333333,0,0,0.625,289.16667,-493.73)">
     <rect
+       class="ColorScheme-Background"
        transform="scale(-1,1)"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4144"
-       width="5.9999995"
+       x="-19"
+       y="916.35999"
+       width="6"
        height="32"
-       x="-19.000004"
-       y="916.36218"
-       class="ColorScheme-Background" />
+       color="#eff0f1"
+       fill="#ffffff"
+       opacity="0.3"
+       id="rect20" />
   </g>
   <g
      id="north-active-tab-right"
-     transform="matrix(1.6666578,0,0,0.62499857,249.00051,-493.72514)">
+     transform="matrix(0.83333391,0,0,0.625,290.49997,-493.73)">
     <rect
-       y="916.36218"
-       x="50.999985"
+       class="ColorScheme-Background"
+       x="51"
+       y="916.35999"
+       width="6"
        height="32"
-       width="5.9999995"
-       id="rect4140"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
-       class="ColorScheme-Background" />
+       color="#eff0f1"
+       fill="#ffffff"
+       opacity="0.3"
+       id="rect23" />
   </g>
   <rect
-     class="ColorScheme-Background"
-     y="78.999863"
-     x="306.00003"
-     height="19.999992"
-     width="25.999981"
      id="north-active-tab-center"
-     style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.71260923" />
+     class="ColorScheme-Background"
+     x="306"
+     y="79"
+     width="26"
+     height="20"
+     color="#eff0f1"
+     fill="#fff"
+     opacity=".3" />
   <rect
      id="hint-tile-center"
-     x="40"
+     x="45"
      y="120"
-     width="41.362999"
-     height="41.120998"
-     style="opacity:0.875;fill:#008000" />
+     width="42"
+     height="42"
+     fill="#008000"
+     opacity="0.875"
+     style="stroke-width:1.01838" />
   <rect
-     id="north-focus-hint-right-margin"
-     transform="scale(-1)"
-     x="-344.00003"
-     y="-89.999863"
-     width="18"
+     style="fill:#4e9a06"
+     stroke-width="0.577326"
      height="2"
-     style="fill:#4e9a06;stroke-width:1.09544516" />
-  <rect
-     id="north-focus-hint-left-margin"
+     width="5"
+     y="-90"
+     x="-338"
      transform="scale(-1)"
-     x="-312.00003"
-     y="-89.999863"
-     width="18"
+     id="north-focus-hint-right-margin" />
+  <rect
+     style="fill:#4e9a06"
+     stroke-width="0.577326"
      height="2"
-     style="fill:#4e9a06;stroke-width:1.09544516" />
-  <rect
-     id="north-focus-hint-bottom-margin"
+     width="5"
+     y="-90"
+     x="-305"
      transform="scale(-1)"
-     x="-320.00003"
-     y="-110.99986"
-     width="2"
-     height="12"
-     style="fill:#4e9a06;stroke-width:0.77459669" />
+     id="north-focus-hint-left-margin" />
   <rect
-     id="north-focus-hint-top-margin"
-     transform="scale(-1)"
-     x="-320.00003"
-     y="-78.999863"
+     style="fill:#4e9a06"
+     stroke-width="0.500002"
+     height="5"
      width="2"
-     height="12"
-     style="fill:#4e9a06;stroke-width:1.09544516" />
+     y="-105"
+     x="-320"
+     transform="scale(-1)"
+     id="north-focus-hint-bottom-margin" />
+  <rect
+     style="fill:#4e9a06"
+     stroke-width="0.707078"
+     height="5"
+     width="2"
+     y="-78"
+     x="-320"
+     transform="scale(-1)"
+     id="north-focus-hint-top-margin" />
   <g
      id="south-active-tab-top"
-     transform="matrix(0.81250095,0,0,1.6666698,290.56249,-1340.2732)">
+     transform="matrix(0.81257816,0,0,0.83333333,290.55851,-575.63332)">
     <rect
-       y="-50.999985"
-       x="-916.36218"
-       height="32"
-       width="6"
-       id="rect4152-3"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
+       class="ColorScheme-Background"
        transform="matrix(0,-1,-1,0,0,0)"
-       class="ColorScheme-Background" />
+       x="-916.35999"
+       y="-51"
+       width="6"
+       height="32"
+       color="#eff0f1"
+       fill="#ffffff"
+       opacity="0.3"
+       id="rect34" />
   </g>
   <g
      id="south-active-tab-topleft"
-     transform="matrix(0.83333454,0,0,0.83333454,283.16668,-581.63644)">
+     transform="matrix(0.41666667,0,0,0.41666667,294.58333,-196.31667)">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2"
-       d="m 25,910.36218 c -6.647974,0 -12,5.35203 -12,12 h 8 2 2 v -2 -8 z"
-       id="rect4159-6"
-       inkscape:connector-curvature="0" />
+       d="m 25,910.36 c -6.648,0 -12,5.352 -12,12 h 12 v -10 z"
+       fill="#ffffff"
+       opacity="0.3"
+       id="path37" />
   </g>
   <g
      id="south-active-tab-topright"
-     transform="matrix(0.8333373,0,0,0.8333373,296.49976,-581.63884)">
+     transform="matrix(0.41666667,0,0,0.41666667,314.25,-196.31667)">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999332"
-       d="m 45.00004,910.36218 v 1.99999 7.99998 1.99999 h 1.999994 1.999993 5.99998 H 57 c 0,-6.64795 -5.352008,-11.99996 -11.99996,-11.99996 z"
-       id="rect4177-7"
-       inkscape:connector-curvature="0" />
+       d="m 45,910.36 v 12 h 12 c 0,-6.648 -5.352,-12 -12,-12 z"
+       fill="#ffffff"
+       opacity="0.3"
+       id="path40" />
   </g>
   <g
      id="south-active-tab-bottom"
-     transform="matrix(0.81250095,0,0,1.6666612,290.56249,-1369.5987)">
+     transform="matrix(0.8125,0,0,0.83333333,290.56,-580.30002)">
     <rect
+       class="ColorScheme-Background"
        transform="rotate(90)"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4148-5"
+       x="948.35999"
+       y="-51"
        width="6"
        height="32"
-       x="948.36218"
-       y="-50.999985"
-       class="ColorScheme-Background" />
+       color="#eff0f1"
+       fill="#ffffff"
+       opacity="0.3"
+       id="rect43" />
   </g>
   <g
      id="south-active-tab-bottomleft"
-     transform="matrix(0.83333072,0,0,0.83333072,283.16673,-574.29944)">
+     transform="matrix(0.41666667,0,0,0.41666667,294.58333,-182.65)">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.00000334"
-       d="m 13,942.36216 c 0,6.64798 5.352035,12.00002 12.00002,12.00002 v -2 -8.00002 -2 h -2.000003 -2.000004 -6.00001 z"
-       id="path5048-3"
-       inkscape:connector-curvature="0" />
+       d="m 13,942.36 c 0,6.648 5.352,12 12,12 v -12 H 15 Z"
+       fill="#ffffff"
+       opacity="0.3"
+       id="path46" />
   </g>
   <g
      id="south-active-tab-bottomright"
-     transform="matrix(0.83333072,0,0,0.83333072,296.50014,-574.29944)">
+     transform="matrix(0.41666667,0,0,0.41666667,314.25,-182.65)">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.00000334"
-       d="m 44.99998,942.36216 v 2 8.00002 2 C 51.647965,954.36218 57,949.01014 57,942.36216 h -2.000003 -6.00001 -2.000004 z"
-       id="rect4177-6-5"
-       inkscape:connector-curvature="0" />
+       d="m 45,942.36 v 12 c 6.648,0 12,-5.352 12,-12 H 47 Z"
+       fill="#ffffff"
+       opacity="0.3"
+       id="path49" />
   </g>
   <g
      id="south-active-tab-left"
-     transform="matrix(1.6666667,0,0,0.62499855,272.33336,-383.72514)">
+     transform="matrix(0.83333333,0,0,0.625,289.16667,-383.73)">
     <rect
+       class="ColorScheme-Background"
        transform="scale(-1,1)"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4144-6"
-       width="5.9999995"
+       x="-19"
+       y="916.35999"
+       width="6"
        height="32"
-       x="-19.000004"
-       y="916.36218"
-       class="ColorScheme-Background" />
+       color="#eff0f1"
+       fill="#ffffff"
+       opacity="0.3"
+       id="rect52" />
   </g>
   <g
      id="south-active-tab-right"
-     transform="matrix(1.6666578,0,0,0.62499855,249.00051,-383.72514)">
+     transform="matrix(0.83333333,0,0,0.625,290.5,-383.73)">
     <rect
-       y="916.36218"
-       x="50.999985"
+       class="ColorScheme-Background"
+       x="51"
+       y="916.35999"
+       width="6"
        height="32"
-       width="5.9999995"
-       id="rect4140-2"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
-       class="ColorScheme-Background" />
+       color="#eff0f1"
+       fill="#ffffff"
+       opacity="0.3"
+       id="rect55" />
   </g>
   <rect
-     class="ColorScheme-Background"
-     y="188.99986"
-     x="306.00003"
-     height="19.999992"
-     width="25.999983"
      id="south-active-tab-center"
-     style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.71260923" />
+     class="ColorScheme-Background"
+     x="306"
+     y="189"
+     width="26"
+     height="20"
+     color="#eff0f1"
+     fill="#fff"
+     opacity=".3" />
   <rect
-     id="south-focus-hint-right-margin"
+     style="fill:#4e9a06"
+     stroke-width="0.577326"
+     height="2"
+     width="5"
+     y="-200"
+     x="-338"
      transform="scale(-1)"
-     x="-344.00003"
-     y="-199.99986"
-     width="18"
-     height="1.9999999"
-     style="fill:#4e9a06;stroke-width:1.09544516" />
+     id="south-focus-hint-right-margin" />
   <rect
-     id="south-focus-hint-left-margin"
+     style="fill:#4e9a06"
+     stroke-width="0.577326"
+     height="2"
+     width="5"
+     y="-200"
+     x="-305"
      transform="scale(-1)"
-     x="-312.00003"
-     y="-199.99986"
-     width="18"
-     height="1.9999999"
-     style="fill:#4e9a06;stroke-width:1.09544516" />
+     id="south-focus-hint-left-margin" />
   <rect
-     id="south-focus-hint-bottom-margin"
+     style="fill:#4e9a06"
+     stroke-width="0.500002"
+     height="5"
+     width="2"
+     y="-215"
+     x="-320"
      transform="scale(-1)"
-     x="-320.00003"
-     y="-220.99986"
-     width="1.9999999"
-     height="12"
-     style="fill:#4e9a06;stroke-width:0.77459669" />
+     id="south-focus-hint-bottom-margin" />
   <rect
-     id="south-focus-hint-top-margin"
+     style="fill:#4e9a06"
+     stroke-width="0.707078"
+     height="5"
+     width="2"
+     y="-188"
+     x="-320"
      transform="scale(-1)"
-     x="-320.00003"
-     y="-188.99986"
-     width="1.9999999"
-     height="12"
-     style="fill:#4e9a06;stroke-width:1.09544516" />
+     id="south-focus-hint-top-margin" />
   <g
      id="west-active-tab-top"
-     transform="matrix(0.81250095,0,0,1.6666698,209.56249,-1392.2732)">
+     transform="matrix(0.8125,0,0,0.83332808,209.56,-627.62854)">
     <rect
-       y="-50.999985"
-       x="-916.36218"
-       height="32"
-       width="6"
-       id="rect4152-9"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
+       class="ColorScheme-Background"
        transform="matrix(0,-1,-1,0,0,0)"
-       class="ColorScheme-Background" />
+       x="-916.35999"
+       y="-51"
+       width="6"
+       height="32"
+       color="#eff0f1"
+       fill="#ffffff"
+       opacity="0.3"
+       id="rect65" />
   </g>
   <g
      id="west-active-tab-topleft"
-     transform="matrix(0.83333454,0,0,0.83333454,202.16668,-633.63644)">
+     transform="matrix(0.41666667,0,0,0.41666667,213.58333,-248.31667)">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2"
-       d="m 25,910.36218 c -6.647974,0 -12,5.35203 -12,12 h 8 2 2 v -2 -8 z"
-       id="rect4159-1"
-       inkscape:connector-curvature="0" />
+       d="m 25,910.36 c -6.648,0 -12,5.352 -12,12 h 12 v -10 z"
+       fill="#ffffff"
+       opacity="0.3"
+       id="path68" />
   </g>
   <g
      id="west-active-tab-topright"
-     transform="matrix(0.8333373,0,0,0.8333373,215.49976,-633.63884)">
+     transform="matrix(0.41666667,0,0,0.41666667,233.25,-248.31667)">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999332"
-       d="m 45.00004,910.36218 v 1.99999 7.99998 1.99999 h 1.999994 1.999993 5.99998 H 57 c 0,-6.64795 -5.352008,-11.99996 -11.99996,-11.99996 z"
-       id="rect4177-2"
-       inkscape:connector-curvature="0" />
+       d="m 45,910.36 v 12 h 12 c 0,-6.648 -5.352,-12 -12,-12 z"
+       fill="#ffffff"
+       opacity="0.3"
+       id="path71" />
   </g>
   <g
      id="west-active-tab-bottom"
-     transform="matrix(0.81250095,0,0,1.6666612,209.56249,-1421.5987)">
+     transform="matrix(0.8125,0,0,0.83333859,209.56,-632.305)">
     <rect
+       class="ColorScheme-Background"
        transform="rotate(90)"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4148-7"
+       x="948.35999"
+       y="-51"
        width="6"
        height="32"
-       x="948.36218"
-       y="-50.999985"
-       class="ColorScheme-Background" />
+       color="#eff0f1"
+       fill="#ffffff"
+       opacity="0.3"
+       id="rect74" />
   </g>
   <g
      id="west-active-tab-bottomleft"
-     transform="matrix(0.83333072,0,0,0.83333072,202.16673,-626.29944)">
+     transform="matrix(0.41666667,0,0,0.41666042,213.58333,-234.64411)">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.00000334"
-       d="m 13,942.36216 c 0,6.64798 5.352035,12.00002 12.00002,12.00002 v -2 -8.00002 -2 h -2.000003 -2.000004 -6.00001 z"
-       id="path5048-0"
-       inkscape:connector-curvature="0" />
+       d="m 13,942.36 c 0,6.648 5.352,12 12,12 v -12 H 15 Z"
+       fill="#ffffff"
+       opacity="0.3"
+       id="path77" />
   </g>
   <g
      id="west-active-tab-bottomright"
-     transform="matrix(0.83333072,0,0,0.83333072,215.50014,-626.29944)">
+     transform="matrix(0.41666667,0,0,0.41666667,233.25,-234.65)">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.00000334"
-       d="m 44.99998,942.36216 v 2 8.00002 2 C 51.647965,954.36218 57,949.01014 57,942.36216 h -2.000003 -6.00001 -2.000004 z"
-       id="rect4177-6-9"
-       inkscape:connector-curvature="0" />
+       d="m 45,942.36 v 12 c 6.648,0 12,-5.352 12,-12 H 47 Z"
+       fill="#ffffff"
+       opacity="0.3"
+       id="path80" />
   </g>
   <g
      id="west-active-tab-left"
-     transform="matrix(1.6666667,0,0,0.62499855,191.33336,-435.72514)">
+     transform="matrix(0.83333333,0,0,0.625,208.16667,-435.73)">
     <rect
+       class="ColorScheme-Background"
        transform="scale(-1,1)"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4144-3"
-       width="5.9999995"
+       x="-19"
+       y="916.35999"
+       width="6"
        height="32"
-       x="-19.000004"
-       y="916.36218"
-       class="ColorScheme-Background" />
+       color="#eff0f1"
+       fill="#ffffff"
+       opacity="0.3"
+       id="rect83" />
   </g>
   <g
      id="west-active-tab-right"
-     transform="matrix(1.6666578,0,0,0.62499855,168.00051,-435.72514)">
+     transform="matrix(0.83333333,0,0,0.625,209.5,-435.73)">
     <rect
-       y="916.36218"
-       x="50.999985"
+       class="ColorScheme-Background"
+       x="51"
+       y="916.35999"
+       width="6"
        height="32"
-       width="5.9999995"
-       id="rect4140-6"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
-       class="ColorScheme-Background" />
+       color="#eff0f1"
+       fill="#ffffff"
+       opacity="0.3"
+       id="rect86" />
   </g>
   <rect
-     class="ColorScheme-Background"
-     y="136.99986"
-     x="225.00005"
-     height="19.999992"
-     width="25.999983"
      id="west-active-tab-center"
-     style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.71260923" />
+     class="ColorScheme-Background"
+     x="225"
+     y="137"
+     width="26"
+     height="20"
+     color="#eff0f1"
+     fill="#fff"
+     opacity=".3" />
   <rect
-     id="west-focus-hint-right-margin"
+     style="fill:#4e9a06"
+     stroke-width="0.577352"
+     height="2"
+     width="5"
+     y="-148"
+     x="-257"
      transform="scale(-1)"
-     x="-263.00003"
-     y="-147.99986"
-     width="12"
-     height="1.9999999"
-     style="fill:#4e9a06;stroke-width:0.89442724" />
+     id="west-focus-hint-right-margin" />
   <rect
-     id="west-focus-hint-left-margin"
+     style="fill:#4e9a06"
+     stroke-width="0.577352"
+     height="2"
+     width="5"
+     y="-148"
+     x="-224"
      transform="scale(-1)"
-     x="-225.00005"
-     y="-147.99986"
-     width="11.999985"
-     height="1.9999999"
-     style="fill:#4e9a06;stroke-width:0.89442664" />
+     id="west-focus-hint-left-margin" />
   <rect
-     id="west-focus-hint-bottom-margin"
+     style="fill:#4e9a06"
+     stroke-width="0.500002"
+     height="5"
+     width="2"
+     y="-163"
+     x="-239"
      transform="scale(-1)"
-     x="-239.00005"
-     y="-168.99986"
-     width="1.9999999"
-     height="12"
-     style="fill:#4e9a06;stroke-width:0.77459669" />
+     id="west-focus-hint-bottom-margin" />
   <rect
-     id="west-focus-hint-top-margin"
+     style="fill:#4e9a06"
+     stroke-width="0.707078"
+     height="5"
+     width="2"
+     y="-136"
+     x="-239"
      transform="scale(-1)"
-     x="-239.00005"
-     y="-136.99986"
-     width="1.9999999"
-     height="12"
-     style="fill:#4e9a06;stroke-width:1.09544516" />
+     id="west-focus-hint-top-margin" />
   <g
      id="east-active-tab-top"
-     transform="matrix(0.81250095,0,0,1.6666698,373.56248,-1394.2731)">
+     transform="matrix(0.8125,0,0,0.83332808,373.5625,-629.62854)">
     <rect
-       y="-50.999985"
-       x="-916.36218"
-       height="32"
-       width="6"
-       id="rect4152-0"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
+       class="ColorScheme-Background"
        transform="matrix(0,-1,-1,0,0,0)"
-       class="ColorScheme-Background" />
+       x="-916.35999"
+       y="-51"
+       width="6"
+       height="32"
+       color="#eff0f1"
+       fill="#ffffff"
+       opacity="0.3"
+       id="rect96" />
   </g>
   <g
      id="east-active-tab-topleft"
-     transform="matrix(0.83333454,0,0,0.83333454,366.16667,-635.63632)">
+     transform="matrix(0.41666667,0,0,0.41666667,377.58333,-250.31667)">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2"
-       d="m 25,910.36218 c -6.647974,0 -12,5.35203 -12,12 h 8 2 2 v -2 -8 z"
-       id="rect4159-62"
-       inkscape:connector-curvature="0" />
+       d="m 25,910.36 c -6.648,0 -12,5.352 -12,12 h 12 v -10 z"
+       fill="#ffffff"
+       opacity="0.3"
+       id="path99" />
   </g>
   <g
      id="east-active-tab-topright"
-     transform="matrix(0.8333373,0,0,0.8333373,379.49975,-635.63882)">
+     transform="matrix(0.41666667,0,0,0.41666667,397.25,-250.31667)">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999332"
-       d="m 45.00004,910.36218 v 1.99999 7.99998 1.99999 h 1.999994 1.999993 5.99998 H 57 c 0,-6.64795 -5.352008,-11.99996 -11.99996,-11.99996 z"
-       id="rect4177-61"
-       inkscape:connector-curvature="0" />
+       d="m 45,910.36 v 12 h 12 c 0,-6.648 -5.352,-12 -12,-12 z"
+       fill="#ffffff"
+       opacity="0.3"
+       id="path102" />
   </g>
   <g
      id="east-active-tab-bottom"
-     transform="matrix(0.81250095,0,0,1.6666612,373.56248,-1423.5986)">
+     transform="matrix(0.8125,0,0,0.83333859,373.5625,-634.305)">
     <rect
+       class="ColorScheme-Background"
        transform="rotate(90)"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4148-8"
+       x="948.35999"
+       y="-51"
        width="6"
        height="32"
-       x="948.36218"
-       y="-50.999985"
-       class="ColorScheme-Background" />
+       color="#eff0f1"
+       fill="#ffffff"
+       opacity="0.3"
+       id="rect105" />
   </g>
   <g
      id="east-active-tab-bottomleft"
-     transform="matrix(0.83333072,0,0,0.83333072,366.16672,-628.29932)">
+     transform="matrix(0.41666667,0,0,0.41667292,377.58333,-236.65589)">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.00000334"
-       d="m 13,942.36216 c 0,6.64798 5.352035,12.00002 12.00002,12.00002 v -2 -8.00002 -2 h -2.000003 -2.000004 -6.00001 z"
-       id="path5048-7"
-       inkscape:connector-curvature="0" />
+       d="m 13,942.36 c 0,6.648 5.352,12 12,12 v -12 H 15 Z"
+       fill="#ffffff"
+       opacity="0.3"
+       id="path108" />
   </g>
   <g
      id="east-active-tab-bottomright"
-     transform="matrix(0.83333072,0,0,0.83333072,379.50013,-628.29932)">
+     transform="matrix(0.41666667,0,0,0.41667292,397.25,-236.65589)">
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.00000334"
-       d="m 44.99998,942.36216 v 2 8.00002 2 C 51.647965,954.36218 57,949.01014 57,942.36216 h -2.000003 -6.00001 -2.000004 z"
-       id="rect4177-6-92"
-       inkscape:connector-curvature="0" />
+       d="m 45,942.36 v 12 c 6.648,0 12,-5.352 12,-12 H 47 Z"
+       fill="#ffffff"
+       opacity="0.3"
+       id="path111" />
   </g>
   <g
      id="east-active-tab-left"
-     transform="matrix(1.6666667,0,0,0.62499855,355.33335,-437.72502)">
+     transform="matrix(0.83333333,0,0,0.625,372.16667,-437.72499)">
     <rect
+       class="ColorScheme-Background"
        transform="scale(-1,1)"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect4144-0"
-       width="5.9999995"
+       x="-19"
+       y="916.35999"
+       width="6"
        height="32"
-       x="-19.000004"
-       y="916.36218"
-       class="ColorScheme-Background" />
+       color="#eff0f1"
+       fill="#ffffff"
+       opacity="0.3"
+       id="rect114" />
   </g>
   <g
      id="east-active-tab-right"
-     transform="matrix(1.6666578,0,0,0.62499855,332.0005,-437.72502)">
+     transform="matrix(0.83333333,0,0,0.625,373.5,-437.72499)">
     <rect
-       y="916.36218"
-       x="50.999985"
+       class="ColorScheme-Background"
+       x="51"
+       y="916.35999"
+       width="6"
        height="32"
-       width="5.9999995"
-       id="rect4140-23"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
-       class="ColorScheme-Background" />
+       color="#eff0f1"
+       fill="#ffffff"
+       opacity="0.3"
+       id="rect117" />
   </g>
   <rect
-     class="ColorScheme-Background"
-     y="134.99998"
-     x="389.00003"
-     height="19.999992"
-     width="25.999983"
      id="east-active-tab-center"
-     style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.71260923" />
+     class="ColorScheme-Background"
+     x="389"
+     y="135"
+     width="26"
+     height="20"
+     color="#eff0f1"
+     fill="#fff"
+     opacity=".3" />
   <rect
-     id="east-focus-hint-right-margin"
+     style="fill:#4e9a06"
+     stroke-width="0.577352"
+     height="2"
+     width="5"
+     y="-146"
+     x="-421"
      transform="scale(-1)"
-     x="-427.00003"
-     y="-145.99998"
-     width="12"
-     height="1.9999999"
-     style="fill:#4e9a06;stroke-width:0.89442724" />
+     id="east-focus-hint-right-margin" />
   <rect
-     id="east-focus-hint-left-margin"
+     style="fill:#4e9a06"
+     stroke-width="0.577352"
+     height="2"
+     width="5"
+     y="-146"
+     x="-388"
      transform="scale(-1)"
-     x="-389.00003"
-     y="-145.99998"
-     width="12"
-     height="1.9999999"
-     style="fill:#4e9a06;stroke-width:0.89442724" />
+     id="east-focus-hint-left-margin" />
   <rect
-     id="east-focus-hint-bottom-margin"
+     style="fill:#4e9a06"
+     stroke-width="0.500002"
+     height="5.0000048"
+     width="2"
+     y="-161"
+     x="-403"
      transform="scale(-1)"
-     x="-403.00003"
-     y="-166.99998"
-     width="1.9999999"
-     height="12"
-     style="fill:#4e9a06;stroke-width:0.77459669" />
+     id="east-focus-hint-bottom-margin" />
   <rect
-     id="east-focus-hint-top-margin"
+     style="fill:#4e9a06"
+     stroke-width="0.707078"
+     height="5.0000014"
+     width="2"
+     y="-134"
+     x="-403"
      transform="scale(-1)"
-     x="-403.00003"
-     y="-134.99998"
-     width="1.9999999"
-     height="12"
-     style="fill:#4e9a06;stroke-width:1.09544516" />
+     id="east-focus-hint-top-margin" />
 </svg>

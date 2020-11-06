@@ -10,7 +10,7 @@
    version="1.1"
    id="svg2"
    viewBox="0 0 32 32"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="touchpad.svg"
    width="32"
    height="32">
@@ -28,7 +28,7 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="8"
-     inkscape:cx="-23.115276"
+     inkscape:cx="-1.4277762"
      inkscape:cy="32.168737"
      inkscape:window-x="0"
      inkscape:window-y="21"
@@ -38,7 +38,8 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-nodes="true"
-     inkscape:object-nodes="false">
+     inkscape:object-nodes="false"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid826" />
